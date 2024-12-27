@@ -1,7 +1,7 @@
 import { connect } from "cloudflare:sockets";
 
 let isApiReady = false;
-let proxyIP = "103.133.223.50:2096";
+let proxyIP = "172.232.231.24:587";
 let cachedProxyList = [];
 
 async function getProxyList() {
@@ -63,7 +63,7 @@ function getAllConfig(request, hostName, proxyList, page = 0) {
 <html lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Geo Project</title>
+    <title>JHOY VPN</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
@@ -75,8 +75,8 @@ function getAllConfig(request, hostName, proxyList, page = 0) {
         <div class="text-center mb-4">
             <div style="position: fixed; top: 10px; width: 100%; z-index: 1000;" class="text-center">
     <h1 class="display-5 fw-bold text-primary">
-    <a href="https://t.me/sampiiiiu" target="_blank" class="text-decoration-none">
-        GEO PROJECT
+    <a href="https://t.me/liuuufey" target="_blank" class="text-decoration-none">
+        JHOY VPN
     </a>
 </h1>
 <div class="card-body">
