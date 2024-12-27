@@ -1,4 +1,4 @@
-name = "admin" # todo
+name = "Akamai_Technologies" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -6,8 +6,8 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-# UUID = "bf57ee1a-7037-489b-9ec6-7e3346322eeb"
-# PROXYIP = "103.133.223.50"
+# UUID = "10d68103-c024-4bbd-9be3-f1dffdc616d2"
+# PROXYIP = "172.232.231.24"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
