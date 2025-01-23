@@ -1,4 +1,4 @@
-name = "akamai" # todo
+name = "sgumum" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -6,8 +6,8 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-# UUID = "ac9c0be6-2d1c-461b-95b3-f4e4ae79e039"
-# PROXYIP = "172.232.231.24"
+# UUID = "a6ecca95-efb1-4330-9d54-9c132e9acaeb"
+# PROXYIP = "101.32.247.126"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
